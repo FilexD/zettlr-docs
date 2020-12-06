@@ -94,6 +94,6 @@ L'exemple ci-dessus rendrait la bibliographie avec une indentation négative de 
 
 Il suffit de partir de là, peut-être de chercher d'autres longueurs à peaufiner et d'ajuster ces longueurs à votre convenance.
 
-## Controller Pandoc Citeproc avec YAML frontmatter
+## Contrôler Pandoc Citeproc avec YAML frontmatter
 
-Vous pouvez controller certains aspects de Pandoc Citeproc avec quelques variables que vous pouvez valoriser dans votre YAML frontmatter. Assurez-vous de lire la [page correspondante](../core/yaml-frontmatter.md) pour voir, par exemple, comment changer la langue dans votre liste de références.
+Vous pouvez contrôler certains aspects de Pandoc Citeproc avec quelques variables que vous pouvez valoriser dans votre YAML frontmatter. Assurez-vous de lire la [page correspondante](../core/yaml-frontmatter.md) pour voir, par exemple, comment changer la langue dans votre liste de références.
